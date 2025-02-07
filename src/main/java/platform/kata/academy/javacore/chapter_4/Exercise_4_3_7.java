@@ -34,7 +34,7 @@ public class Exercise_4_3_7 {
         Main.main(args);
     }
 
-    public class Main {
+    public static class Main {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in).useLocale(Locale.ENGLISH);
             double sum = 0;
